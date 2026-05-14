@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_add_asset.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_add_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_repair_request.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_repair_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\item_issue_log.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_issue_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_report.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_issue_log.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_issue_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_asset_list.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_asset_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\item_health_check.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\dialog_signup.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\dialog_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_asset_detail.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_asset_detail.xml"
+    },
+    {
+        "merged": "com.example.nammashaaleinventory.app-mergeDebugResources-58:/layout/activity_monthly_health_check.xml",
+        "source": "com.example.nammashaaleinventory.app-main-61:/layout/activity_monthly_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\activity_monthly_health_check.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_monthly_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-mergeDebugResources-58:\\layout\\item_asset.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_asset.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Namma-Shaale Inventory</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="total_assets">Total Assets</string>
+    <string name="needs_repair">Needs Repair</string>
+    <string name="working">Working</string>
+    <string name="add_asset">Add Asset</string>
+    <string name="asset_name">Asset Name</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="category">Category</string>
+    <string name="condition">Condition</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search assets...</string>
+    <string name="issue_log">Issue Log</string>
+    <string name="repair_request">Repair Request</string>
+    <string name="report">Generate Report</string>
+    <string name="monthly_health_check">Monthly Health Check</string>
+</resources>

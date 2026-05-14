@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_dialog_signup.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\dialog_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nammashaaleinventory.app-debug-59:/layout_activity_monthly_health_check.xml.flat",
+        "source": "com.example.nammashaaleinventory.app-main-61:/layout/activity_monthly_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_item_health_check.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_asset_detail.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_asset_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_asset_list.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_asset_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_item_asset.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\menu_dashboard_menu.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\menu\\dashboard_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_monthly_health_check.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_monthly_health_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_item_issue_log.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\item_issue_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\menu_asset_list_menu.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\menu\\asset_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_repair_request.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_repair_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\drawable_ic_inventory.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\drawable\\ic_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_issue_log.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_issue_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-debug-59:\\layout_activity_add_asset.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\8.13\\com.example.nammashaaleinventory.app-main-61:\\layout\\activity_add_asset.xml"
+    }
+]
