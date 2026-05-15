@@ -76,19 +76,32 @@ Report and manage asset-related issues effectively.
 
 ---
 
+
 ## 📸 Application Screenshots
 
+### 🔐 Sign Up
+![Sign Up](app/screenshots/Sign_Up.jpeg)
+
+### 🔑 Log In
+![Log In](app/screenshots/Log_In.jpeg)
+
+### 🏠 Home Page
+![Home Page](app/screenshots/Home_Page.jpeg)
+
+### ➕ Add Asset
+![Add Asset](app/screenshots/Add_Asset.jpeg)
+
+### 📋 Asset List
+![Asset List](app/screenshots/Asset_List.jpeg)
+
 ### 🩺 Health Check
+![Health Check](app/screenshots/Health_Check.jpeg)
 
-![Health Check](screenshots/healthcheck.png)
+### 🔧 Repair Request
+![Repair Request](app/screenshots/Repair_Request.jpeg)
 
-### 🔧 Repair Requests
-
-![Repair Requests](screenshots/repair.png)
-
-### 📝 Issue Logging
-
-![Issue Logging](screenshots/issues.png)
+### 📝 Issue Log
+![Issue Log](app/screenshots/Log_Issue.jpeg)
 
 ---
 
